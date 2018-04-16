@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Debate on Hugh Paterson III for Eugene City Council</title>
+    <link>/tags/debate/</link>
+    <description>Recent content in Debate on Hugh Paterson III for Eugene City Council</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Mar 2018 12:30:55 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/debate/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Eugene City Club Debate</title>
+      <link>/blog/city-club-debate/</link>
+      <pubDate>Fri, 30 Mar 2018 12:30:55 +0100</pubDate>
+      
+      <guid>/blog/city-club-debate/</guid>
+      <description>City Club Link: http://www.cityclubofeugene.org/events/eugene-city-council-candidate-forum-for-contested-seats/
+KLCC link (listen): http://klcc.org/post/eugene-city-council-candidates-weigh-auditor-measure
+Register Guard coverage: http://registerguard.com/rg/news/local/36602402-75/eugene-council-candidates-debate-merits-of-competing-auditor-ballot-measures.html.csp</description>
+    </item>
+    
+  </channel>
+</rss>
