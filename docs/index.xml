@@ -6,7 +6,6 @@
     <description>Recent content in Docs on Hugh Paterson III for Eugene City Council</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Apr 2017 16:41:40 +0100</lastBuildDate>
     
 	<atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
     
@@ -29,48 +28,6 @@
       <guid>/docs/leading-green/</guid>
       <description>Basic Template With Kube, you can set up your web framework and be on your way in under a minute. Just add this code to your web page for the basic template to take effect immediately.
 &amp;lt;!DOCTYPE html&amp;gt; &amp;lt;html&amp;gt; &amp;lt;head&amp;gt; &amp;lt;title&amp;gt;Basic Template&amp;lt;/title&amp;gt; &amp;lt;meta charset=&#34;utf-8&#34;&amp;gt; &amp;lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1&#34;&amp;gt; &amp;lt;!-- Kube CSS --&amp;gt; &amp;lt;link rel=&#34;stylesheet&#34; href=&#34;assets/css/kube.css&#34;&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; &amp;lt;h1&amp;gt;Hello, world!&amp;lt;/h1&amp;gt; &amp;lt;!-- Kube JS + jQuery are used for some functionality, but are not required for the basic setup --&amp;gt; &amp;lt;script src=&#34;</description>
-    </item>
-    
-    <item>
-      <title>Typography</title>
-      <link>/docs/examples/typography/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/docs/examples/typography/</guid>
-      <description>Get Started Typography of Kube based on the 4px horizontal grid, it means that for the headers, paragraphs, quotes and any other texts chosen are a combination of line-height, that fit into the 4px grid and help set the horizontal rhythm of design by default.
-  4px grid for typography - the magic of the horizontal rhythm   With this feature, you can quickly and easily make a solid and harmonious-looking website and UI design.</description>
-    </item>
-    
-    <item>
-      <title>Tabs</title>
-      <link>/docs/examples/tabs/</link>
-      <pubDate>Mon, 10 Apr 2017 16:41:40 +0100</pubDate>
-      
-      <guid>/docs/examples/tabs/</guid>
-      <description>Base Here&amp;rsquo;s an example of basic tabs setup. Tabs bar is an unordered list, and each tab in tabs bar is a list item. For each tab there&amp;rsquo;s a corresponding div, which contains the body of the tab (it can be any kind of HTML).
- Home   Shop   Catalog   T-Shirts   Brand    Home Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Toggleme</title>
-      <link>/docs/examples/toggleme/</link>
-      <pubDate>Mon, 10 Apr 2017 16:42:59 +0100</pubDate>
-      
-      <guid>/docs/examples/toggleme/</guid>
-      <description>Demo Toggleme works on mobile devices as well as on desktops. To see Toggleme in action, just resize this window or open this page on a mobile device.
-Toggle      Shop   News   Contact   Blog   Account      &amp;lt;div class=&amp;ldquo;show-sm&amp;rdquo;&amp;gt; &amp;lt;a href=&amp;rdquo;#&amp;rdquo; data-component=&amp;ldquo;toggleme&amp;rdquo; data-target=&amp;rdquo;#navbar&amp;rdquo;&amp;gt;Toggle&amp;lt;/a&amp;gt; &amp;lt;/div&amp;gt;
-&amp;lt;nav id=&amp;ldquo;navbar&amp;rdquo; class=&amp;ldquo;hide-sm&amp;rdquo;&amp;gt; &amp;lt;ul&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;rdquo;#&amp;rdquo;&amp;gt;&amp;hellip;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt; &amp;lt;/nav&amp;gt;   Usage Show Me</description>
-    </item>
-    
-    <item>
-      <title>Utils</title>
-      <link>/docs/examples/utils/</link>
-      <pubDate>Mon, 10 Apr 2017 16:43:30 +0100</pubDate>
-      
-      <guid>/docs/examples/utils/</guid>
-      <description>Group Combines float elements to group with a clearfix.
-This text is visibly floating left  This text looks like a case of right float   &amp;lt;div class=&amp;ldquo;group&amp;rdquo;&amp;gt; &amp;lt;div class=&amp;ldquo;float-left&amp;rdquo;&amp;gt;&amp;hellip;&amp;lt;/div&amp;gt; &amp;lt;div class=&amp;ldquo;float-right&amp;rdquo;&amp;gt;&amp;hellip;&amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt;   Visibility Below is an invisible div with class invisible. You can&amp;rsquo;t see it, because it is invisible. You can&amp;rsquo;t see invisible things.
-invisible  But you can see this div because it has visible class.</description>
     </item>
     
   </channel>
