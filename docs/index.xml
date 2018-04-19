@@ -20,18 +20,6 @@
     </item>
     
     <item>
-      <title>Land Use</title>
-      <link>/docs/why-run/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/docs/why-run/</guid>
-      <description>Friends,
-The measure for independent Auditor sets the tone for this election. The People of Eugene expect Clarity, Openness, and a demonstration of responsibility from their elected officials and their appointed officials.
-The essence of Eugene that we hold dear, be it our Eugene neighborhoods or the larger character of our city is being challenged by internal and external pressures.
-The pace and scope of change in Eugene is set to increase.</description>
-    </item>
-    
-    <item>
       <title>Leading Green</title>
       <link>/docs/leading-green/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -50,6 +38,18 @@ What are your top two environmental priorities?  Securing the solar access right
       <description>Open Data in context In the Eugene context of Governance Citizens want to know that the city is acting fairly and in their best interests. One way to do this is to take the city&amp;rsquo;s transactional and research data and put that in the public space.
 For Eugene there are two important aspects of open data: comprehension and possess-ability.
 Comprehension The web is a primary means of communication for many (most) of the people living in Eugene.</description>
+    </item>
+    
+    <item>
+      <title>Why Run</title>
+      <link>/docs/why-run/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/why-run/</guid>
+      <description>Friends,
+The measure for independent Auditor sets the tone for this election. The People of Eugene expect Clarity, Openness, and a demonstration of responsibility from their elected officials and their appointed officials.
+The essence of Eugene that we hold dear, be it our Eugene neighborhoods or the larger character of our city is being challenged by internal and external pressures.
+The pace and scope of change in Eugene is set to increase.</description>
     </item>
     
   </channel>
