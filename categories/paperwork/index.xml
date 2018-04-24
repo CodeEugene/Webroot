@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paperwork on Hugh Paterson III for Eugene City Council</title>
+    <link>/categories/paperwork/</link>
+    <description>Recent content in Paperwork on Hugh Paterson III for Eugene City Council</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Feb 2018 12:30:55 +0100</lastBuildDate>
+    
+	<atom:link href="/categories/paperwork/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Signatures Complete</title>
+      <link>/blog/signing-for-candidate/</link>
+      <pubDate>Wed, 28 Feb 2018 12:30:55 +0100</pubDate>
+      
+      <guid>/blog/signing-for-candidate/</guid>
+      <description> Signing the papers to get on the city Ballot </description>
+    </item>
+    
+  </channel>
+</rss>
