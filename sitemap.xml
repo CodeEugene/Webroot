@@ -7,6 +7,10 @@
   </url>
   
   <url>
+    <loc>/docs/no-cet/</loc>
+  </url>
+  
+  <url>
     <loc>/docs/land-use/</loc>
   </url>
   
@@ -66,10 +70,6 @@
   </url>
   
   <url>
-    <loc>/faq/</loc>
-  </url>
-  
-  <url>
     <loc>/</loc>
     <lastmod>2018-04-24T07:30:55+01:00</lastmod>
   </url>
@@ -96,6 +96,10 @@
   
   <url>
     <loc>/password-recovery/</loc>
+  </url>
+  
+  <url>
+    <loc>/faq/</loc>
   </url>
   
   <url>
