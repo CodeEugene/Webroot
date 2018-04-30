@@ -53,6 +53,7 @@ main {
 .bg-light-rnd {
   background: rgba(0, 0, 0, 0.04);
   border-radius: 5px;
+  text-decoration: none;
 }
 
 .block-link {
