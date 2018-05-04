@@ -3,7 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/docs/why-run/</loc>
+  </url>
+  
+  <url>
     <loc>/docs/accountability/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/leading-green/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/land-use/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/open-data/</loc>
   </url>
   
   <url>
@@ -16,22 +32,6 @@
   
   <url>
     <loc>/docs/hayward-field-east-grandstands/</loc>
-  </url>
-  
-  <url>
-    <loc>/docs/land-use/</loc>
-  </url>
-  
-  <url>
-    <loc>/docs/leading-green/</loc>
-  </url>
-  
-  <url>
-    <loc>/docs/open-data/</loc>
-  </url>
-  
-  <url>
-    <loc>/docs/why-run/</loc>
   </url>
   
   <url>
